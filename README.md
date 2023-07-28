@@ -147,10 +147,3 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
-
-## Bugs
-No known bugs at this time. 
-
-## Authors
-Kipronoh Vincent - [Github](https://github.com/KipronohVincent)
-Zebbylion Njau - [Github](https://github.com/zebbyG)
